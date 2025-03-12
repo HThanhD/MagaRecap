@@ -9,10 +9,10 @@
 ### 1. Time-Saving
 - Automatic panel cutting and extraction from comics
 - Quick text recognition and translation
-- Fast application of pre-made effects
+- Fast application of pre-made animations
 
 ### 2. Easy to Use
-- Drag and drop comic files to start immediately
+- Drag and drop manhwa images files to start immediately
 - Simple, user-friendly interface
 - All actions can be undone
 
@@ -23,10 +23,7 @@
 - Direct video export to CapCut
 
 ### 4. And Many More Features!
-- Diverse ready-to-use effects
-- Smart content writing tools with AI
-- Free sound effects
-- And many more exciting features waiting for you to discover!
+- See features here [Features](https://www.magarecap.com/features)
 
 ## Installation and Usage
 
