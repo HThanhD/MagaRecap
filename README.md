@@ -35,8 +35,8 @@
 1. Download the software from [MagaRecap](https://www.magarecap.com)
 2. Install and run MagaRecap
 3. Drag comic image files into the software
-4. Edit and create videos as desired
-5. Export to CapCut for finishing touches
+4. Edit and create videos
+5. Export to CapCut
 
 ## Support
 Need help? Contact me:
