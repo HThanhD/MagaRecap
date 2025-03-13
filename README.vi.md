@@ -1,32 +1,32 @@
-[English](README.md) | [Tiếng Việt](#tiếng-việt)
+[English](readme.md) | [Tiếng Việt](#tiếng-việt)
 
 ![MagaRecap](MagaRecap.png)
 
-**[MagaRecap](https://www.magarecap.com)** là phần mềm giúp bạn tạo video review truyện tranh một cách nhanh chóng và chuyên nghiệp trên Windows. Cho dù bạn muốn làm video từ manhwa, manga hay manhua,... MagaRecap sẽ giúp bạn tạo video nhanh chóng và dễ dàng.
+**[MagaRecap](https://www.magarecap.com)** là một phần mềm mạnh mẽ giúp bạn tạo các video review truyện tranh chuyên nghiệp một cách nhanh chóng trên Windows. Cho dù bạn muốn làm video từ truyện tranh, manga hay manhua, MagaRecap sẽ giúp bạn hoàn thành công việc dễ dàng hơn bao giờ hết.
 
-## Tại sao nên dùng MagaRecap?
+[Xem demo]([https://www.magarecap.com](https://www.youtube.com/watch?v=s9wrpag-iGI&t=321s))
+
+
+## Tại sao chọn MagaRecap?
 
 ### 1. Tiết kiệm thời gian
-- Tự động cắt và trích xuất panel từ truyện
-- Nhận diện và dịch chữ nhanh chóng
-- Áp dụng hiệu ứng có sẵn một cách nhanh chóng
+- Tự động cắt và trích xuất khung hình từ truyện tranh
+- Nhận dạng và dịch văn bản nhanh chóng
+- Áp dụng nhanh các hoạt ảnh có sẵn
 
 ### 2. Dễ sử dụng
-- Kéo thả file truyện vào là có thể bắt đầu ngay
-- Giao diện đơn giản, thân thiện
-- Có thể hoàn tác mọi thao tác
+- Kéo và thả file ảnh truyện tranh để bắt đầu ngay lập tức
+- Giao diện đơn giản, thân thiện với người dùng
+- Tất cả các thao tác đều có thể hoàn tác
 
 ### 3. Tính năng chuyên nghiệp
 - Hỗ trợ nhiều ngôn ngữ
-- Công cụ chỉnh sửa panel linh hoạt
-- Text-to-Speech chất lượng cao
+- Công cụ chỉnh sửa khung hình linh hoạt
+- Chuyển văn bản thành giọng nói chất lượng cao
 - Xuất video trực tiếp sang CapCut
 
-### 4. Và còn nhiều tính năng khác!
-- Hiệu ứng sẵn có đa dạng 
-- Công cụ viết nội dung thông minh với AI
-- Âm thanh miễn phí
-- Và nhiều tính năng hấp dẫn khác đang chờ bạn khám phá!
+### 4. Và nhiều tính năng khác!
+- Xem các tính năng tại đây [Tính năng](https://www.magarecap.com/features)
 
 ## Cài đặt và Sử dụng
 
@@ -35,14 +35,14 @@
 - Kết nối internet
 
 ### Các bước sử dụng:
-1. Tải phần mềm từ [Releases](https://github.com/MagaRecap/MagaRecap/releases) hoặc [Trang chủ](https://www.magarecap.com)
+1. Tải phần mềm từ [MagaRecap](https://www.magarecap.com)
 2. Cài đặt và chạy MagaRecap
-3. Kéo các files ảnh truyện vào phần mềm
-4. Chỉnh sửa và tạo video theo ý muốn
-5. Xuất video sang CapCut để hoàn thiện
+3. Kéo các file ảnh truyện tranh vào phần mềm
+4. Chỉnh sửa và tạo video
+5. Xuất sang CapCut
 
 ## Hỗ trợ
-Cần giúp đỡ? Liên hệ với tôi:
+Cần trợ giúp? Liên hệ với tôi:
 - Email: hoangthanh@magarecap.com
 - Telegram: https://t.me/HuangThanh
-- Facebook: https://www.facebook.com/magarecap
+- Facebook: https://www.facebook.com/magarecap 
