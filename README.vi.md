@@ -4,7 +4,7 @@
 
 **[MagaRecap](https://www.magarecap.com)** là một phần mềm mạnh mẽ giúp bạn tạo các video review truyện tranh chuyên nghiệp một cách nhanh chóng trên Windows. Cho dù bạn muốn làm video từ truyện tranh, manga hay manhua, MagaRecap sẽ giúp bạn hoàn thành công việc dễ dàng hơn bao giờ hết.
 
-[Xem demo]([https://www.magarecap.com](https://www.youtube.com/watch?v=s9wrpag-iGI&t=321s))
+[Xem demo](https://www.youtube.com/watch?v=s9wrpag-iGI&t=321s)
 
 
 ## Tại sao chọn MagaRecap?
