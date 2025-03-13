@@ -4,7 +4,7 @@
 
 **[MagaRecap](https://www.magarecap.com)** is a powerful software that helps you create professional manhwa recap videos quickly on Windows. Whether you want to make videos from comic, manga, or manhua, MagaRecap will help you complete the task easier than ever.
 
-[Demo hero](https://www.magarecap.com)
+[Demo hero]([https://www.magarecap.com](https://www.youtube.com/watch?v=s9wrpag-iGI&t=321s))
 
 
 ## Why Choose MagaRecap?
